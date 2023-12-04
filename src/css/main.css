@@ -1,0 +1,229 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
+
+.header {
+  max-width: 1664px;
+  margin: 0 auto;
+}
+
+.content-header {
+  display: flex;
+  margin-top: 45px;
+}
+.content-header a{
+  color: white;
+  text-decoration: none;
+}
+.content-header a:hover{
+  color: #d20101;
+}
+
+.searchus {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  margin-left: 206px;
+  cursor: pointer;
+  font-weight: 400;
+}
+
+.searchus:hover {
+  color: #d20101;
+}
+
+.link{
+  color: white;
+}
+
+.us {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  margin-left: 197px;
+  cursor: pointer;
+  font-weight: 400;
+}
+
+.us:hover {
+  color: #d20101;
+}
+
+.catalog {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  margin-left: 197px;
+  cursor: pointer;
+  font-weight: 400;
+}
+
+.catalog:hover {
+  color: #d20101;
+}
+
+.login {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  margin-left: 235px;
+  cursor: pointer;
+  font-weight: 400;
+}
+
+.login:hover {
+  color: #d20101;
+}
+
+.registr {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  margin-left: 63px;
+  cursor: pointer;
+  font-weight: 400;
+}
+
+.registr:hover {
+  color: #d20101;
+}
+
+.content {
+  max-width: 1664px;
+  margin: 0 auto;
+}
+
+.printer-block {
+  margin-top: 73px;
+
+  /* -- */
+  position: relative;
+}
+
+.model {
+  color: #d20101;
+  font-family: "Montserrat", sans-serif;
+  margin-top: 67px;
+  font-size: 48px;
+  font-weight: 600;
+}
+
+.more {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  margin-top: 67px;
+  font-size: 32px;
+  font-weight: 600;
+  border: 5px solid #d20101;
+  border-radius: 30px;
+  padding-left: 21px;
+  padding-right: 21px;
+  margin-left: 30px;
+  /* padding-top: 12px;
+    padding-bottom: 12px; */
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.flex-model {
+  display: flex;
+}
+
+.name {
+  margin-left: -17px;
+  display: flex;
+}
+
+.fam-block {
+  display: flex;
+}
+
+.print {
+  margin-left: 123px;
+  display: flex;
+}
+
+.print-canon {
+  margin-left: 123px;
+  display: flex;
+  margin-top: 50px;
+}
+
+.print-bro {
+  margin-left: 123px;
+  display: flex;
+  margin-top: 100px;
+}
+
+
+.print-hp {
+  margin-left: 80px;
+  display: flex;
+  margin-top: 100px;
+}
+
+.brand {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 70px;
+  cursor: pointer;
+  margin-right: 150px;
+  margin-left: 150px;
+}
+.b-hp.active {
+  display: none;
+}
+
+.b-hpred {
+  display: none;
+}
+
+.b-hpred.active {
+  display: block;
+}
+
+.name-canon {
+  margin-top: 40px;
+}
+
+.canon {
+  display: none;
+}
+
+.canon.active {
+  display: block;
+}
+.epson {
+  display: none;
+
+}
+.epson.active {
+  display: block;
+}
+
+.brother {
+  display: none;
+}
+.brother.active {
+  display: block;
+}
+
+
+
+.hp {
+  display: none;
+
+}
+.hp.active {
+  display: block;
+}
